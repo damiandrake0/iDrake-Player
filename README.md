@@ -2,7 +2,7 @@
 
 **iDrake Player** is a Python-based music player featuring an intuitive GUI for MP3 playback. It supports essential functionalities like **playlists**, **shuffle**, **volume control**, and **track navigation**.
 
-![iDrake-Player screenshot](docs/screenshot.png)
+![iDrake-Player screenshot](docs/welcome-screen.png)
 
 ## Features
 - **Play, Pause, Stop & Resume** – Control your music with a click.
